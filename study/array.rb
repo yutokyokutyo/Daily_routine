@@ -5,5 +5,5 @@ hash = {
 "Baxter" => "Stephen", "Stross" => "Charles", "Reynolds" => "Alastar"
 }
 hash.each do |key, value|
-  puts "#{value} #{Key}"
+  puts "#{value} #{key}"
 end
